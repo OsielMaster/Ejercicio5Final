@@ -1,0 +1,62 @@
+﻿
+
+<html>
+<head>
+    <link href="~/estilos.css" rel="stylesheet" />
+    <title>Catálogo - Gimnasio</title>
+    
+</head>
+<body>
+    <header class="headersh"><p>GYMSHARK</p> </header>
+    <nav class="active">
+        <a href="~/Home/Index">Principal</a>
+        <a href="~/Home/Suplementos">Suplementos</a>
+        <a href="~/Home/Accesorios">Accesorios y Equipo</a>
+        <a href="~/Home/Vestimenta" >Ropa Deportiva</a>
+    </nav>
+    <main> 
+      @RenderBody()
+    </main>
+    <footer> &copy; 2024 Gimnasio. Diseñado para tus necesidades fitness.</footer>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+           
+            var header = document.querySelector("header");
+            var nav = document.querySelector("nav");
+
+           
+            if (document.body.classList.contains("principalbody")) {
+                if (header) {
+                    header.style.display = "none";  
+                    
+                }
+                if (nav) {
+                    nav.style.display = "block";  
+                    nav.style.textAlign = "center";
+                }
+            }
+            else if (document.body.classList.contains("VerSup")) {
+                if (header) {
+                    header.style.display = "block";  
+                }
+                if (nav) {
+                    nav.style.display = "none";  
+                }
+            }
+            else {
+                if (header) {
+                    header.style.display = "block";
+                }
+                if (nav) {
+                    nav.style.display = "block";
+                    nav.style.textAlign = "center";
+                }
+            }
+        });
+    </script>
+
+
+
+</body>
+</html>
+

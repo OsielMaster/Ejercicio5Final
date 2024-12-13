@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\estilos.css",
+      "PackagePath": "staticwebassets\\estilos.css"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\Blanco.jpg",
+      "PackagePath": "staticwebassets\\img\\Blanco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\Blanco2.jpg",
+      "PackagePath": "staticwebassets\\img\\Blanco2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\Preentreno.png",
+      "PackagePath": "staticwebassets\\img\\Preentreno.png"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\PrinBlanco.png",
+      "PackagePath": "staticwebassets\\img\\PrinBlanco.png"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\Principal2.jpg",
+      "PackagePath": "staticwebassets\\img\\Principal2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\Short.jpg",
+      "PackagePath": "staticwebassets\\img\\Short.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\almo.jpg",
+      "PackagePath": "staticwebassets\\img\\almo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\fondotodo.png",
+      "PackagePath": "staticwebassets\\img\\fondotodo.png"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\guantes.jpg",
+      "PackagePath": "staticwebassets\\img\\guantes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\jogger.jpg",
+      "PackagePath": "staticwebassets\\img\\jogger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\leggins.jpg",
+      "PackagePath": "staticwebassets\\img\\leggins.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\logote.png",
+      "PackagePath": "staticwebassets\\img\\logote.png"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\principal.jpg",
+      "PackagePath": "staticwebassets\\img\\principal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\principal3.jpg",
+      "PackagePath": "staticwebassets\\img\\principal3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\principal4.avif",
+      "PackagePath": "staticwebassets\\img\\principal4.avif"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\principal5.jpg",
+      "PackagePath": "staticwebassets\\img\\principal5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\principal6.jpg",
+      "PackagePath": "staticwebassets\\img\\principal6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\proteina.jpg",
+      "PackagePath": "staticwebassets\\img\\proteina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\img\\straps.jpg",
+      "PackagePath": "staticwebassets\\img\\straps.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\imgaccesorios\\1.jpg",
+      "PackagePath": "staticwebassets\\imgaccesorios\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\imgaccesorios\\10.jpg",
+      "PackagePath": "staticwebassets\\imgaccesorios\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\imgaccesorios\\2.jpg",
+      "PackagePath": "staticwebassets\\imgaccesorios\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\imgaccesorios\\3.jpg",
+      "PackagePath": "staticwebassets\\imgaccesorios\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\imgaccesorios\\4.jpg",
+      "PackagePath": "staticwebassets\\imgaccesorios\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\imgaccesorios\\5.jpg",
+      "PackagePath": "staticwebassets\\imgaccesorios\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\imgaccesorios\\6.jpg",
+      "PackagePath": "staticwebassets\\imgaccesorios\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\imgaccesorios\\7.jpg",
+      "PackagePath": "staticwebassets\\imgaccesorios\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\imgaccesorios\\8.jpg",
+      "PackagePath": "staticwebassets\\imgaccesorios\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\wwwroot\\imgaccesorios\\9.png",
+      "PackagePath": "staticwebassets\\imgaccesorios\\9.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PadillaProyectoGYM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PadillaProyectoGYM.props",
+      "PackagePath": "build\\PadillaProyectoGYM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PadillaProyectoGYM.props",
+      "PackagePath": "buildMultiTargeting\\PadillaProyectoGYM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PadillaProyectoGYM.props",
+      "PackagePath": "buildTransitive\\PadillaProyectoGYM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

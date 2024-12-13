@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PadillaProyectoGYM
+build_property.RootNamespace = PadillaProyectoGYM
+build_property.ProjectDir = C:\Users\MasterP27\Downloads\ad\ad\PadillaProyectoGYM\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MasterP27\Downloads\ad\ad\PadillaProyectoGYM
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Areas/Administrador/Views/Home/Agregar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYWRvclxWaWV3c1xIb21lXEFncmVnYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Areas/Administrador/Views/Home/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYWRvclxWaWV3c1xIb21lXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Areas/Administrador/Views/Home/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYWRvclxWaWV3c1xIb21lXEVsaW1pbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Areas/Administrador/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYWRvclxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Areas/Administrador/Views/Shared/layoutadmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYWRvclxWaWV3c1xTaGFyZWRcbGF5b3V0YWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Views/Home/Accesorios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc29yaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Views/Home/Suplementos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdXBsZW1lbnRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Views/Home/VerAccesorios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJBY2Nlc29yaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Views/Home/VerSuplementos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJTdXBsZW1lbnRvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Views/Home/VerVestimenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXJWZXN0aW1lbnRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Views/Home/Vestimenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZXN0aW1lbnRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MasterP27/Downloads/ad/ad/PadillaProyectoGYM/Views/Shared/layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

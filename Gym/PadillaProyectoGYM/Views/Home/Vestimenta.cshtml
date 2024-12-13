@@ -1,0 +1,46 @@
+﻿@model PadillaProyectoGYM.Models.ViewModels.SuplementosViewModel
+@{
+    ViewData["Title"] = "Vestimenta";
+    Layout = "layout";
+}
+<section class="vestimenta">
+
+
+    <div class="container">
+        <div class="logoac"><img src="~/img/logote.png" /></div>
+        <div class="subcategorias">
+            <p>SUBCATEGORIAS</p>
+            <p><a href="~/Home/Vestimenta">Todos los productos</a></p>
+            @foreach (var item in Model.Subcategorias)
+            {
+
+                <p>
+                    <a href="@Url.Action("Vestimenta", new { subcategoriaId = item.DatosSubcategorias.Id })">
+                        @item.DatosSubcategorias.NombreSub
+                    </a>
+                </p>
+
+
+
+            }
+
+        </div>
+
+        @foreach (var s in Model.Suplementos)
+        {
+            <a href="~/Home/VerVestimenta/@s.Productos.Id">
+                <div class="suplemento">
+                    <img src="~/imgaccesorios/@(s.Productos.Id).jpg" alt="Imagen de Creatina">
+                    <div class="info">
+                        <h2>@s.Productos.Nombre</h2>
+
+                        <p>@s.Productos.Precio.ToString("c")</p>
+
+
+                    </div>
+                </div>
+            </a>
+        }
+    </div>
+
+</section>

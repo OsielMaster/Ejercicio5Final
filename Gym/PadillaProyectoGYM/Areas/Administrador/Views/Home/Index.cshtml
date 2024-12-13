@@ -1,0 +1,62 @@
+﻿@model PadillaProyectoGYM.Areas.Administrador.Models.ViewModels.AgregarEditarViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "layoutadmin";
+}
+
+<section class="suplementos">
+    <div class="container">
+        <div class="logoac"><img src="~/img/logote.png" /></div>
+        <div class="subcategoriasAdmin">
+            @foreach (var item in Model.Categorias)
+            {
+                <p>
+                    <a href="@Url.Action("Index", new { categoriaId = item.categorias })">
+                        @item.categorias.Nombre
+                    </a>
+                </p>
+                @foreach (var sub in item.categorias.Subcategorias)
+                {
+                    <p>
+                    <a href="@Url.Action("Index", new { subcategoriaId = sub.Id })">
+                        @sub.NombreSub
+                    </a>
+                </p>
+                }
+            }
+
+          
+           
+
+        </div>
+
+        @foreach ( var p in Model.Productos)
+        {
+            <div class="suplementoAdmin">
+                <img src="~/imgaccesorios/@(p.productos.Id).jpg" alt="Imagen de Creatina">
+                <div class="info">
+                    <h2>@p.productos.Nombre</h2>
+
+                    <p>@p.productos.Precio.ToString("c")</p>
+                    <br />
+
+                    <a href="~/Administrador/Eliminar/@(p.productos.Id)" class="Eliminar">Eliminar</a>
+                    <br />
+                    <a href="~/Administrador/Editar/@(p.productos.Id)" class="Editar">Editar</a>
+                </div>
+
+            </div>
+        }
+
+       
+
+
+        
+       
+
+
+    </div>
+    <a href="~/Administrador/Agregar" class="Agregar">+</a>
+    <a href="~/Home/Index" class="regresar">Regresar</a>
+</section>
+

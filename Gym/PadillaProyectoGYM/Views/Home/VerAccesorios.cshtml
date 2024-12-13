@@ -1,0 +1,27 @@
+﻿@model PadillaProyectoGYM.Models.Entities.Productos
+@{
+    ViewData["Title"] = "VerAccesorios";
+    Layout = "layout";
+}
+
+<body class="VerSup">
+    <h2 class="titulo">@Model.Nombre</h2>
+    <div class="Ordenar">
+
+        <img src="~/imgaccesorios/@(Model.Id).jpg" />
+
+        <div class="VerSuplemento">
+
+
+            <p><span>Descripcion:</span>@Model.Descripcion</p>
+            <p><span>Precio:</span>@Model.Precio</p>
+
+            <p><span>Stock:</span>@Model.Stock</p>
+
+        </div>
+
+    </div>
+    <a href="~/Home/Accesorios" class="regresar">Regresar</a>
+
+</body>
+

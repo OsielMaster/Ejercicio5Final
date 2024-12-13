@@ -1,0 +1,36 @@
+﻿@model PadillaProyectoGYM.Models.Entities.Productos
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Eliminar";
+    Layout = "layoutadmin";
+}
+
+<body class="VerSup">
+    <form method="post" action="~/Administrador/Eliminar">
+       
+        <h2 class="titulo">Eliminar Producto</h2>
+        <div class="Ordenar">
+            <input type="hidden" asp-for="Id" />
+            <img src="~/imgaccesorios/@(Model.Id).jpg" />
+
+            <div class="VerSuplemento">
+
+                <p>¿Está seguro de eliminar el producto "@Model.Nombre"?</p>
+              
+
+                <div>
+                    <input type="submit" value="Eliminar Producto" />
+                </div>
+
+            </div>
+
+        </div>
+        <a href="~/Administrador" class="regresar">Regresar</a>
+
+    </form>
+
+   
+</body>
+
+
+

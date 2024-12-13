@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\areas\\administrador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\areas\\administrador\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\areas\\administrador\\views\\home\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\areas\\administrador\\views\\home\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\areas\\administrador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\areas\\administrador\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\views\\home\\vestimenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\views\\home\\vestimenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\views\\home\\vervestimenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\views\\home\\vervestimenta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\views\\home\\suplementos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\views\\home\\suplementos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\areas\\administrador\\views\\home\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\areas\\administrador\\views\\home\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\views\\home\\versuplementos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\views\\home\\versuplementos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\areas\\administrador\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\areas\\administrador\\views\\home\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\views\\home\\veraccesorios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\views\\home\\veraccesorios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\views\\home\\accesorios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\views\\home\\accesorios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\models\\viewmodels\\suplementosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\models\\viewmodels\\suplementosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\areas\\administrador\\models\\viewmodels\\agregareditarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\areas\\administrador\\models\\viewmodels\\agregareditarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|c:\\users\\masterp27\\downloads\\ad\\ad\\padillaproyectogym\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D352287F-E492-4EF6-A93A-CB5F9F490588}|PadillaProyectoGYM\\PadillaProyectoGYM.csproj|solutionrelative:padillaproyectogym\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Program.cs",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Program.cs",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Program.cs",
+              "RelativeToolTip": "PadillaProyectoGYM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:52:06.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T06:46:41.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Editar.cshtml",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Editar.cshtml",
+              "RelativeToolTip": "PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T05:46:27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Areas\\Administrador\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PadillaProyectoGYM\\Areas\\Administrador\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:32:10.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerSuplementos.cshtml",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\VerSuplementos.cshtml",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Views\\Home\\VerSuplementos.cshtml",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\VerSuplementos.cshtml",
+              "RelativeToolTip": "PadillaProyectoGYM\\Views\\Home\\VerSuplementos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T08:36:49.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Agregar.cshtml",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Agregar.cshtml",
+              "RelativeToolTip": "PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Agregar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T05:43:26.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Suplementos.cshtml",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\Suplementos.cshtml",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Views\\Home\\Suplementos.cshtml",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\Suplementos.cshtml",
+              "RelativeToolTip": "PadillaProyectoGYM\\Views\\Home\\Suplementos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T08:35:30.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VerVestimenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\VerVestimenta.cshtml",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Views\\Home\\VerVestimenta.cshtml",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\VerVestimenta.cshtml",
+              "RelativeToolTip": "PadillaProyectoGYM\\Views\\Home\\VerVestimenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T08:36:54.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vestimenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\Vestimenta.cshtml",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Views\\Home\\Vestimenta.cshtml",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\Vestimenta.cshtml",
+              "RelativeToolTip": "PadillaProyectoGYM\\Views\\Home\\Vestimenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T08:35:37.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Eliminar.cshtml",
+              "RelativeToolTip": "PadillaProyectoGYM\\Areas\\Administrador\\Views\\Home\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T08:38:30.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Accesorios.cshtml",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\Accesorios.cshtml",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Views\\Home\\Accesorios.cshtml",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\Accesorios.cshtml",
+              "RelativeToolTip": "PadillaProyectoGYM\\Views\\Home\\Accesorios.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T05:43:18.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VerAccesorios.cshtml",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\VerAccesorios.cshtml",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Views\\Home\\VerAccesorios.cshtml",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Views\\Home\\VerAccesorios.cshtml",
+              "RelativeToolTip": "PadillaProyectoGYM\\Views\\Home\\VerAccesorios.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T05:28:31.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PadillaProyectoGYM\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwFQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:29:42.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SuplementosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Models\\ViewModels\\SuplementosViewModel.cs",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Models\\ViewModels\\SuplementosViewModel.cs",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Models\\ViewModels\\SuplementosViewModel.cs",
+              "RelativeToolTip": "PadillaProyectoGYM\\Models\\ViewModels\\SuplementosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:31:26.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AgregarEditarViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Models\\ViewModels\\AgregarEditarViewModel.cs",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Areas\\Administrador\\Models\\ViewModels\\AgregarEditarViewModel.cs",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Areas\\Administrador\\Models\\ViewModels\\AgregarEditarViewModel.cs",
+              "RelativeToolTip": "PadillaProyectoGYM\\Areas\\Administrador\\Models\\ViewModels\\AgregarEditarViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:36:07.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "PadillaProyectoGYM\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\MasterP27\\Downloads\\ad\\ad\\PadillaProyectoGYM\\Repositories\\Repository.cs",
+              "RelativeToolTip": "PadillaProyectoGYM\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:28:32.629Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
